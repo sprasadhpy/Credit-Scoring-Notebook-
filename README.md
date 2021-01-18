@@ -1,7 +1,7 @@
-# Credit-Scoring-Notebook-
-Predicting POD on Financial distress customer data 
+# Credit-Scoring-Notebook
+#### Predicting POD on Financial distress customer data 
 
-Variables in the dataset:
+##### Variables in the dataset:
 
 
 **SeriousDlqin2yrs:** Person experienced 90 days past due delinquency or worse (Target variable / label)
