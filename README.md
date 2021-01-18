@@ -1,7 +1,7 @@
 # Credit-Scoring-Notebook
 #### Predicting POD on Financial distress customer data 
 
-##### Variables in the dataset:
+## Variables in the dataset:
 
 
 **SeriousDlqin2yrs:** Person experienced 90 days past due delinquency or worse (Target variable / label)
@@ -27,6 +27,6 @@ age Age of borrower in years
 **NumberOfDependents:** Number of dependents in family excluding themselves (spouse, children etc.)
 
 
-Methodology used : Random Forest classifier with quantile based approach
+**Methodology used:** Random Forest classifier with quantile based approach
 
-prediction accuracy : 80%
+**prediction accuracy:** 80%
