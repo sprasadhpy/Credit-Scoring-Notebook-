@@ -27,8 +27,8 @@ age Age of borrower in years
 **NumberOfDependents:** Number of dependents in family excluding themselves (spouse, children etc.)
 
 
+## Methodology and Prediction accruacy
 
+Random Forest classifier with quantile based approach
 
-**Methodology used:** Random Forest classifier with quantile based approach
-
-**prediction accuracy:** 80%
+80%
